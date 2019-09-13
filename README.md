@@ -1,4 +1,4 @@
-Guide to install LoL with lol-wine and add to Lutris
+Guide to install LoL with lol-wine and add to Lutris, based on [u/ridethenuke from reddit](https://old.reddit.com/r/leagueoflinux/comments/bx0y2s/success_latest_arch_linux_winelol_patch_911/)
 
 *Setup LoL via lol-wine and lol-wine-glibc
 yay -S lol-wine
