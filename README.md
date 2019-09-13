@@ -15,7 +15,7 @@ export WINEPREFIX=~/Games-Wine/LoL
 
 export WINEARCH=win32
 
-###run
+### Run
 
 /opt/wine-lol/bin/winecfg
 
