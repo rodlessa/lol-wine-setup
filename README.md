@@ -4,7 +4,7 @@ Guide to install LoL with lol-wine and add to Lutris, based on [u/ridethenuke fr
 yay -S lol-wine
 yay -S lol-wine-glibc
 
-#Create folders and setup Wine
+*Create folders and setup Wine*
 
 mkdir Games-Wine
 mkdir ~/Games-Wine/LoL
@@ -17,12 +17,12 @@ run /opt/wine-lol/bin/winecfg
 
 add mscvp140.dll
 
-#Download LoL installer move to ~/Games-Wine/LoL/drive_c/
+*Download LoL installer move to ~/Games-Wine/LoL/drive_c/*
 then run:
 
 opt/wine-lol/bin/wine ~/Games-Wine/LoL/drive_c/installer-name.exe
 
-##DONT launch after install
+*DONT launch after install*
 
 Add to Lutris
 
@@ -33,12 +33,12 @@ Runner:
 
 Wine
 
-##Game Options:
+*Game Options:*
 Executable: /home/your-user/Games-Wine/LoL/drive_c/Riot Games/League of Legends/LeagueClient.exe
 Wine Prefix: ~/Games-Wine/LoL
 Prefix Architeture: 32-bit
 
-##Runner Option
+*Runner Option*
 Wine Version: Custom
 Custom wine executable: /opt/wine-lol/bin/wine
 
