@@ -2,11 +2,13 @@
 
 ## Setup LoL via lol-wine and lol-wine-glibc
 yay -S lol-wine
+
 yay -S lol-wine-glibc
 
 ## Create folders and setup Wine
 
 mkdir Games-Wine
+
 mkdir ~/Games-Wine/LoL
 
 export WINEPREFIX=~/Games-Wine/LoL
