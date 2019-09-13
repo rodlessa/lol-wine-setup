@@ -39,11 +39,14 @@ Wine
 
 ## Game Options:
 Executable: /home/your-user/Games-Wine/LoL/drive_c/Riot Games/League of Legends/LeagueClient.exe
+
 Wine Prefix: ~/Games-Wine/LoL
+
 Prefix Architeture: 32-bit
 
 ## Runner Option
 Wine Version: Custom
+
 Custom wine executable: /opt/wine-lol/bin/wine
 
 Enable D9VK
