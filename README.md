@@ -15,7 +15,9 @@ export WINEPREFIX=~/Games-Wine/LoL
 
 export WINEARCH=win32
 
-run /opt/wine-lol/bin/winecfg
+###run
+
+/opt/wine-lol/bin/winecfg
 
 add mscvp140.dll
 
