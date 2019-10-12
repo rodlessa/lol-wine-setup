@@ -3,7 +3,7 @@
 ## Setup LoL via lol-wine and lol-wine-glibc
 yay -S wine-lol
 
-yay -S lol-wine-glibc
+yay -S wine-lol-glibc
 
 ## Create folders and setup Wine
 
